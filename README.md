@@ -1,5 +1,7 @@
 # My First Coding Assignment
-"C:\Users\hanhn\Downloads\IMG_0993.JPG"
+
+![alt text](IMG_0993.JPG)
+
 ## About Me
 Hello everyone, my name is Zoey Nguyen and I currently live in north Minneapolis, Minnesota. I graduated in 2022 with a BA in Graphic Design from St Cloud State University and now I’m a lead Production Designer at a publishing company in White Bear Lake, MN.
 
